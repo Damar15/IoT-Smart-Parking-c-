@@ -1,10 +1,10 @@
 # Prototype-IoT-Smart-Parking-cpp-
 # Kelompok 7 :
-Dani Mahardika Suroso
-Muhammad Farico Alamsyah
-Inez Bedwina Zahra
-M. Alif Al Zulfikhar Suryaputra
-Leo Luis Fernando
+1. Dani Mahardika Suroso
+2. Muhammad Farico Alamsyah
+3. Inez Bedwina Zahra
+4. M. Alif Al Zulfikhar Suryaputra
+5. Leo Luis Fernando
 # IoT Smart Parking System
 # Deskripsi
 IoT Smart Parking System merupakan sistem yang dirancang agar memudahkan pengendara untuk mengetahui ketersediaan slot parkir dan dimana lokasi slot yang kosong pada suatu tempat parkir, terutama pada tempat parkir yang luas dan bertingkat. Informasi mengenai keadaan tempat parkir akan tampil lahan parkir yang tersedia berdasarkan lantai yang dipilih
