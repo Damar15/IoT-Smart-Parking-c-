@@ -1,4 +1,4 @@
-# Prototype-IoT-Smart-Parking-cpp-
+# Prototype-IoT-Smart-Parking-cpp
 # Kelompok 7 :
 1. Dani Mahardika Suroso
 2. Muhammad Farico Alamsyah
